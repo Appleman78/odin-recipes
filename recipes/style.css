@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.italian {
+    background-color: aqua;
+    color: black;
+    margin: 30px;
+    padding: 10px;
+}
+.steps {
+    margin: 15px;
+    
+}

@@ -1,0 +1,32 @@
+* {
+   box-sizing: border-box; 
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.breadone,.breadthree {
+    width: 130px;
+    margin: 20px;
+    font-size: 25px;
+}
+
+.breadone {
+    color: rgb(65, 2, 117);
+    background-color: springgreen;
+}
+
+.breadtwo {
+    width: 130px;
+    margin: 20px;
+    font-size: 25px;
+    color: darkblue;
+    background-color: yellow;
+}
+
+.breadthree {
+    color: black;
+    background-color: red;
+}
+
+#recipeshone {
+    background-color: olive;
+}

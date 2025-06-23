@@ -6,17 +6,17 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.banana ,.italian {
+.wheat ,.banana ,.italian {
     background-color: darkcyan;
     color: black;
     margin: 30px;
-    padding: 20px;
+    padding: 30px;
     font-size: 30px;
 }
 .steps {
     margin: 15px;}
 
-#ingredients {
+.ingredients {
     font-size: 30px;
     background-color: darkcyan;
     margin: 30px;
@@ -34,7 +34,7 @@
     font-size: 45px;
 }
 
-#p {
+.p {
     background-color: darkblue;
     font-size: 20px;
     color: mediumseagreen;
@@ -44,4 +44,17 @@
 
 .link {
     font-size: 25px;
+}
+
+.step {
+    margin: 20px;
+}
+
+.smallheading {
+    font-size: 30px;
+}
+
+#image {
+    width: 250px;
+    height: auto;
 }
